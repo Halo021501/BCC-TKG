@@ -1,0 +1,5 @@
+# Recorded training runtime: Python 3.10, PyTorch 2.6.0+cu118.
+# Install the appropriate PyTorch 2.6 build for your machine before this file.
+torch>=2.6,<2.7
+numpy==1.26.4
+matplotlib==3.7.2

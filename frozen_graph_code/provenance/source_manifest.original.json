@@ -1,0 +1,77 @@
+{
+  "created_at_utc": "2026-09-07T02:51:35.832986+00:00",
+  "files": [
+    {
+      "path": "/code/src/__init__.py",
+      "sha256": "abd72f8dc6baa72fdfe9493d2e3553030b35955abff6cc0ae9422e5418b7e0d6",
+      "size": 38
+    },
+    {
+      "path": "/code/src/aliyun_qwen_io.py",
+      "sha256": "fc94af9bc92e47ccb8d1d7263372e79d02c78fdda2a7f78ac07360f3b2cd2e6e",
+      "size": 10714
+    },
+    {
+      "path": "/code/src/aliyun_qwen_realtime.py",
+      "sha256": "cc9a29f8e66bd7bd9156ee7750ffbeab71f58816c0825311a64d0a456435bc8d",
+      "size": 11534
+    },
+    {
+      "path": "/code/src/audit_matrix.py",
+      "sha256": "7cb467847e3b21c38ffa688d5df6e2f49b5abadeaf97116a1befb981f5f932ae",
+      "size": 5974
+    },
+    {
+      "path": "/code/src/calibrate_memory.py",
+      "sha256": "93913d91dd72cdceb7acd6857bb115613140c52c2d15d03ca99210f62352379e",
+      "size": 6665
+    },
+    {
+      "path": "/code/src/collect_results.py",
+      "sha256": "9e763ab68370e1f6af69f82aaecf980b7a104d50ef0fa8d4153b140baf010de2",
+      "size": 2337
+    },
+    {
+      "path": "/code/src/data.py",
+      "sha256": "3ce300a543d1ae08bc7aea3a85c34e60d50ed6e7f99bb6737575f439570a7093",
+      "size": 22864
+    },
+    {
+      "path": "/code/src/gpu_preflight.py",
+      "sha256": "64ea7569fd6ed9ed9d43f094db2b625b6f8cae9d4f9ceb9f9d41e78c31dfe24c",
+      "size": 3870
+    },
+    {
+      "path": "/code/src/interfaces.py",
+      "sha256": "c17530f56f9941d3d53039f5ef62b14911da12b35c524ef9c913b7a499efea81",
+      "size": 1249
+    },
+    {
+      "path": "/code/src/llm_cache.py",
+      "sha256": "12fd813e5fe167f2ea426108148f07e86262a9eeb116dcf993412a8a4ed855a2",
+      "size": 15809
+    },
+    {
+      "path": "/code/src/model.py",
+      "sha256": "d8c97deb96d16490376429bb4f6550e9df1e57e1d2a8487d9d624322f578659a",
+      "size": 77066
+    },
+    {
+      "path": "/code/src/stlp.py",
+      "sha256": "ca411d31d6de708c33c1415965689b3f332a56b3caeaed30c0cba06c1a24d30d",
+      "size": 12759
+    },
+    {
+      "path": "/code/src/train.py",
+      "sha256": "d8db52ca6a876c5cc67ef2087c58b38d79a57acdf9dab4c15d49767977f6f085",
+      "size": 71885
+    },
+    {
+      "path": "/code/train.py",
+      "sha256": "6d5aa4ba776baa53a4be8f53496992794a24ac24345e6b5ea5e9e5feb9e282e3",
+      "size": 67
+    }
+  ],
+  "source_parent": "/home/lizishan/LLM-FSTKGC_project/experiment_runs/ten_seed_residual_20260905/code",
+  "source_parent_manifest_sha256": "5ab9530f15a97f768e20f649ade88fe51e3002b2280d0d0967becf25cc712707"
+}

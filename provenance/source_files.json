@@ -1,0 +1,338 @@
+{
+  "description": "Unchanged experimental source files copied from the author workspace; source paths are relative identifiers, not runtime dependencies.",
+  "files": [
+    {
+      "path": "frozen_graph_code/src/__init__.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/frozen_graph_code/src/__init__.py",
+      "sha256": "abd72f8dc6baa72fdfe9493d2e3553030b35955abff6cc0ae9422e5418b7e0d6",
+      "category": "graph_model_training_and_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/src/aliyun_qwen_io.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/frozen_graph_code/src/aliyun_qwen_io.py",
+      "sha256": "fc94af9bc92e47ccb8d1d7263372e79d02c78fdda2a7f78ac07360f3b2cd2e6e",
+      "category": "graph_model_training_and_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/src/aliyun_qwen_realtime.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/frozen_graph_code/src/aliyun_qwen_realtime.py",
+      "sha256": "cc9a29f8e66bd7bd9156ee7750ffbeab71f58816c0825311a64d0a456435bc8d",
+      "category": "graph_model_training_and_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/src/audit_matrix.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/frozen_graph_code/src/audit_matrix.py",
+      "sha256": "7cb467847e3b21c38ffa688d5df6e2f49b5abadeaf97116a1befb981f5f932ae",
+      "category": "graph_model_training_and_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/src/calibrate_memory.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/frozen_graph_code/src/calibrate_memory.py",
+      "sha256": "93913d91dd72cdceb7acd6857bb115613140c52c2d15d03ca99210f62352379e",
+      "category": "graph_model_training_and_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/src/collect_results.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/frozen_graph_code/src/collect_results.py",
+      "sha256": "9e763ab68370e1f6af69f82aaecf980b7a104d50ef0fa8d4153b140baf010de2",
+      "category": "graph_model_training_and_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/src/data.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/frozen_graph_code/src/data.py",
+      "sha256": "3ce300a543d1ae08bc7aea3a85c34e60d50ed6e7f99bb6737575f439570a7093",
+      "category": "graph_model_training_and_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/src/gpu_preflight.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/frozen_graph_code/src/gpu_preflight.py",
+      "sha256": "64ea7569fd6ed9ed9d43f094db2b625b6f8cae9d4f9ceb9f9d41e78c31dfe24c",
+      "category": "graph_model_training_and_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/src/interfaces.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/frozen_graph_code/src/interfaces.py",
+      "sha256": "c17530f56f9941d3d53039f5ef62b14911da12b35c524ef9c913b7a499efea81",
+      "category": "graph_model_training_and_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/src/llm_cache.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/frozen_graph_code/src/llm_cache.py",
+      "sha256": "12fd813e5fe167f2ea426108148f07e86262a9eeb116dcf993412a8a4ed855a2",
+      "category": "graph_model_training_and_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/src/model.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/frozen_graph_code/src/model.py",
+      "sha256": "d8c97deb96d16490376429bb4f6550e9df1e57e1d2a8487d9d624322f578659a",
+      "category": "graph_model_training_and_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/src/stlp.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/frozen_graph_code/src/stlp.py",
+      "sha256": "ca411d31d6de708c33c1415965689b3f332a56b3caeaed30c0cba06c1a24d30d",
+      "category": "graph_model_training_and_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/src/train.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/frozen_graph_code/src/train.py",
+      "sha256": "d8db52ca6a876c5cc67ef2087c58b38d79a57acdf9dab4c15d49767977f6f085",
+      "category": "graph_model_training_and_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/train.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/frozen_graph_code/train.py",
+      "sha256": "6d5aa4ba776baa53a4be8f53496992794a24ac24345e6b5ea5e9e5feb9e282e3",
+      "category": "graph_model_training_and_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "cbrc/__init__.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/CBRC/cbrc/__init__.py",
+      "sha256": "394e2775c5ead2370dc89232852054851639715245be188ca089966977e2e64e",
+      "category": "correction_training_export_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "cbrc/__main__.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/CBRC/cbrc/__main__.py",
+      "sha256": "e69c65e0e7305628983d87b0028a3979be2d9724fb2c2d5b23f8da2cf5dd633e",
+      "category": "correction_training_export_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "cbrc/adapter.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/CBRC/cbrc/adapter.py",
+      "sha256": "d890f2c2b3afa7aab198e0ab212567b07512d7f10c5c6dc5a533b1c5d93e5f97",
+      "category": "correction_training_export_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "cbrc/audit.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/CBRC/cbrc/audit.py",
+      "sha256": "c5ed3d789b18801a32d8ee9602aa812885218a14b9583126e832834bd15443ae",
+      "category": "correction_training_export_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "cbrc/core.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/CBRC/cbrc/core.py",
+      "sha256": "3a8af331fbfc6438336ad9e3799f812340606e4b171b2fe32e52d676682a87fe",
+      "category": "correction_training_export_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "cbrc/export.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/CBRC/cbrc/export.py",
+      "sha256": "67c9bf1fd8712e2caf2739579fe04f2c17db22923f900ca8e4056bde6b959d0f",
+      "category": "correction_training_export_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "cbrc/matrix.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/CBRC/cbrc/matrix.py",
+      "sha256": "749de3a5ad4ba3cb2c26b3d1a07f56e5f22dab1d92fb2773b394e4c134333c43",
+      "category": "correction_training_export_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "cbrc/pipeline.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/CBRC/cbrc/pipeline.py",
+      "sha256": "30fde3fcf7ce27ec2972af6b24f3b5370853fc9c1b1475b2923a0ab51b64c614",
+      "category": "correction_training_export_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "cbrc/smoke.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/CBRC/cbrc/smoke.py",
+      "sha256": "b48446ccc899c7fb4849b41e24f9bb88e531009298c2f7b3170bd1cc49f06ff7",
+      "category": "correction_training_export_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "cbrc/statistics.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/CBRC/cbrc/statistics.py",
+      "sha256": "dce90b1759d49663a1db24d02e70d9626957654a2ffd823c7a5f6f3b614325ec",
+      "category": "correction_training_export_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "tests/test_core.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/CBRC/tests/test_core.py",
+      "sha256": "dedfca1435af4819c73f05271d011a621523bd56abebc1cb22a4fe25de5f36c3",
+      "category": "correctness_tests",
+      "unchanged": true
+    },
+    {
+      "path": "tests/test_pipeline.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/CBRC/tests/test_pipeline.py",
+      "sha256": "bbe0cb3922c1e9b86d5a7a01d4f56e19ac749bb2b77959b3e40245cb5b664cce",
+      "category": "correctness_tests",
+      "unchanged": true
+    },
+    {
+      "path": "tests/graph/test_aliyun_qwen_realtime.py",
+      "source": "代码/LLM-FSTKGC_20260908/tests/test_aliyun_qwen_realtime.py",
+      "sha256": "dfa89fa46028aec0ef772a5fec8684f1d391af3d1ec66057182a3c4867fb89ff",
+      "category": "graph_and_cache_tests",
+      "unchanged": true
+    },
+    {
+      "path": "tests/graph/test_aliyun_qwen_realtime_shards.py",
+      "source": "代码/LLM-FSTKGC_20260908/tests/test_aliyun_qwen_realtime_shards.py",
+      "sha256": "876d9d9eedbb7fb531beee9f310708214aa2ed9ca671aac3f68cd6749d4ef430",
+      "category": "graph_and_cache_tests",
+      "unchanged": true
+    },
+    {
+      "path": "tests/graph/test_llm_residual_control.py",
+      "source": "代码/LLM-FSTKGC_20260908/tests/test_llm_residual_control.py",
+      "sha256": "692fb8b0e26ae7e1a37bc811ebbfa8f604f9fe9f42dfa80c37db402604050b86",
+      "category": "graph_and_cache_tests",
+      "unchanged": true
+    },
+    {
+      "path": "tests/graph/test_v170alterego_v5_llm_invariants.py",
+      "source": "代码/LLM-FSTKGC_20260908/tests/test_v170alterego_v5_llm_invariants.py",
+      "sha256": "db64a91cee633933d59466f503f516ca50e10a29d112e9a89c0d097149b3ea3f",
+      "category": "graph_and_cache_tests",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/scripts/stlp_aliyun_qwen_request_plan.py",
+      "source": "代码/LLM-FSTKGC_20260908/scripts/stlp_aliyun_qwen_request_plan.py",
+      "sha256": "33514023bf223a114d26888639942eb65c8bf6a1713a55cf024fa6cf207ff7b2",
+      "category": "offline_candidates_and_paired_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/scripts/stlp_aliyun_qwen_realtime.py",
+      "source": "代码/LLM-FSTKGC_20260908/scripts/stlp_aliyun_qwen_realtime.py",
+      "sha256": "2886bd8ba1c68b332c7b4fcc3b88f4bb2d15552d031b5c70e547fba93c6c5024",
+      "category": "offline_candidates_and_paired_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/scripts/prepare_aliyun_qwen_realtime_shards.py",
+      "source": "代码/LLM-FSTKGC_20260908/scripts/prepare_aliyun_qwen_realtime_shards.py",
+      "sha256": "796e67f5d773a6339e6fa63756faae6c35321110a2f784ebd67599d80260c6bf",
+      "category": "offline_candidates_and_paired_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/scripts/merge_aliyun_qwen_realtime_shards.py",
+      "source": "代码/LLM-FSTKGC_20260908/scripts/merge_aliyun_qwen_realtime_shards.py",
+      "sha256": "57fa2c3352bb8a0681e1fd01a9c63968973623bd8acbf622315d2b0a1842d2b2",
+      "category": "offline_candidates_and_paired_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/scripts/stlp_evaluate_llm_only.py",
+      "source": "代码/LLM-FSTKGC_20260908/scripts/stlp_evaluate_llm_only.py",
+      "sha256": "07386b2f61728d86ec94a4fc0932300680e7f3acfbf9fe16c1c2e39ad5b9f45a",
+      "category": "offline_candidates_and_paired_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/scripts/paired_semantic_eval.py",
+      "source": "代码/LLM-FSTKGC_20260908/scripts/paired_semantic_eval.py",
+      "sha256": "3fb024ff885f27866cb70dc63b8463564bd3084b14a8cc8c1334590e2f60c6f8",
+      "category": "offline_candidates_and_paired_evaluation",
+      "unchanged": true
+    },
+    {
+      "path": "frozen_graph_code/ALIYUN_QWEN_REALTIME_PROVENANCE.json",
+      "source": "代码/LLM-FSTKGC_20260908/ALIYUN_QWEN_REALTIME_PROVENANCE.json",
+      "sha256": "87447752f74f3667dbf264a882268d1d6f6f57488302b755810480ed3c324705",
+      "category": "candidate_generation_metadata",
+      "unchanged": true
+    },
+    {
+      "path": "runtime/resumable_train.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/resumable_20261025/resumable_train.py",
+      "sha256": "9c85057e47c410200908b55d9d002c9ebaa2ef977fb7dc3a28162fba9ab8ea8d",
+      "category": "durable_checkpoint_adapter",
+      "unchanged": true
+    },
+    {
+      "path": "runtime/resumable_fit.py",
+      "source": "output/scientific_reports/CBRC_implementation_20261019/resumable_20261025/resumable_fit.py",
+      "sha256": "f1d0c3e258d3f5bb26c84cd4606aad42f7b240fafb681788676ceea6e123aa97",
+      "category": "durable_checkpoint_adapter",
+      "unchanged": true
+    },
+    {
+      "path": "results_reference/icews14_correction.csv",
+      "source": "output/scientific_reports/SR2026_formula_notes_20261102/source_data/icews/all_seed_metrics.csv",
+      "sha256": "9f8d53ac3038c85700eabbe04e2822b5afdc51cd334c6890a88d3b46ac456e3f",
+      "category": "recorded_reference_results",
+      "unchanged": true
+    },
+    {
+      "path": "results_reference/yago_transfer.csv",
+      "source": "output/scientific_reports/SR2026_formula_notes_20261102/source_data/transfer/all_seed_metrics.csv",
+      "sha256": "75dc31e3f39b0103ba4cdc91c9962eb61369a8ad2f220e5c6b9f41d9a5e865c4",
+      "category": "recorded_reference_results",
+      "unchanged": true
+    },
+    {
+      "path": "results_reference/complete_test_seed_metrics.csv",
+      "source": "output/scientific_reports/SR2026_formula_notes_20261102/source_data/history/block_b_seed_metrics.csv",
+      "sha256": "97991389de0da47ea3a0e7371e436396ecba719e54da7b08dcb45fa080b6659c",
+      "category": "recorded_reference_results",
+      "unchanged": false,
+      "source_sha256": "0a41a8ba67ec08e5accce71e9592393a3c7fcadbacd38263a48ebd24987fc18a",
+      "changes": "Removed nonnumerical machine-local path columns only: source_metrics"
+    },
+    {
+      "path": "results_reference/complete_test_semantic_pairs.csv",
+      "source": "output/scientific_reports/SR2026_formula_notes_20261102/source_data/history/block_b_semantic_pairs.csv",
+      "sha256": "d24da249938e36e8040cd662b53f27fccf89871e8895d5cfcbccb9fac14d2e1a",
+      "category": "recorded_reference_results",
+      "unchanged": true
+    },
+    {
+      "path": "results_reference/external_predictors_summary.csv",
+      "source": "output/scientific_reports/SR2026_formula_notes_20261102/source_data/history/original_tables/block_A_table_2.csv",
+      "sha256": "c3529b96787f53b1d0aa7f3a1ccdae52b0ce636f9245803df89cf52f66f9380f",
+      "category": "recorded_reference_results",
+      "unchanged": true
+    },
+    {
+      "path": "results_reference/training_loss.csv",
+      "source": "output/scientific_reports/SR2026_formula_notes_20261102/source_data/training_loss.csv",
+      "sha256": "641d0598be19bfa87470b500ac73612953c0c509612ac4a3b3bc474d1174b97b",
+      "category": "recorded_reference_results",
+      "unchanged": false,
+      "source_sha256": "ecf6cd26d273fd8e39b8013200c674642b4f5276ecf6ab506e8a9288d23fc3c5",
+      "changes": "Removed nonnumerical machine-local path columns only: log"
+    },
+    {
+      "path": "results_reference/icews14_query_effects.csv",
+      "source": "output/scientific_reports/SR2026_formula_notes_20261102/source_data/icews/query_effects.csv",
+      "sha256": "ffa6f7865e88e5051053177fd94a448e44e61a18c452b56a8d71b44ca45ad500",
+      "category": "recorded_reference_results",
+      "unchanged": true
+    },
+    {
+      "path": "results_reference/yago_query_effects.csv",
+      "source": "output/scientific_reports/SR2026_formula_notes_20261102/source_data/transfer/query_effects.csv",
+      "sha256": "3322a7840b6aa11ace17e1c1565cdbe8bb2a188e52df8f233d7cc5adc4549e88",
+      "category": "recorded_reference_results",
+      "unchanged": true
+    }
+  ]
+}

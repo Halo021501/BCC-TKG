@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-09",
+  "checks": [
+    {
+      "check": "prepare",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "all_python_syntax",
+      "passed": true
+    },
+    {
+      "check": "copied_source_hashes",
+      "passed": true,
+      "files": 47
+    },
+    {
+      "check": "offline_tests",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "help_experiment",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "help_transfer",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "help_generate_local_cache",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "help_run_matrix",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "help_analyze_results",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "help_extract_loss",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "help_plot_loss",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "help_stlp_aliyun_qwen_request_plan",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "help_stlp_aliyun_qwen_realtime",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "help_prepare_aliyun_qwen_realtime_shards",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "help_merge_aliyun_qwen_realtime_shards",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "help_stlp_evaluate_llm_only",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "help_paired_semantic_eval",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "dataset_ICEWS14",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "train_plan_ICEWS14_5",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "train_plan_ICEWS14_10",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "dataset_YAGO",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "train_plan_YAGO_5",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "train_plan_YAGO_10",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "matrix_plan",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "reference_analysis",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "loss_plot",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "check": "published_effects_CIs_and_pvalues",
+      "passed": true,
+      "comparisons": 13
+    },
+    {
+      "check": "exact_transfer_selection",
+      "passed": true,
+      "facts": 2000,
+      "directional_instances": 4000
+    },
+    {
+      "check": "common_credential_patterns",
+      "passed": true
+    }
+  ],
+  "offline_tests": {
+    "total": 50,
+    "passed": 49,
+    "skipped": 1
+  },
+  "formal_training_started": false,
+  "provider_called": false,
+  "full_synthetic_pipeline": "Not executed: execution permission was rejected. No alternative execution attempted.",
+  "external_baseline_training_sources": "Not included; archived numeric results only.",
+  "original_sources_preserved": true
+}
